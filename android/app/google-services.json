@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842553922376",
+    "project_id": "mychat-64e68",
+    "storage_bucket": "mychat-64e68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842553922376:android:f1b16232c92a4c4106d97d",
+        "android_client_info": {
+          "package_name": "com.newpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyMkFyn6zCKi5eLN-r0H9q3e7FXqMo6kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
